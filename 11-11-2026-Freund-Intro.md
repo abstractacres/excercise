@@ -1,4 +1,4 @@
-Testing to see if markdown works here
+Testing to see if latex works here
 
 $\frac{x*y}{w}$
 
@@ -9,4 +9,8 @@ I picked up the second edition of *Modern Elementary Statistics* by John E. Freu
   * Freund synonymized the word "decision" with "generalization"
   * How data is collected and experiments are designed determines whether it is even possible to arrive to valid results
 
-It's about time for I to head to work. I'll return to discuss the chapter exercises. 
+My intention is to work out the end-of-chapter exercises by hand. And discuss the differences between my work and the answer keys in this /excercise repository to keep practicing latex in addition to my communication skills.
+
+I will link 🔗 future related logs here:
+
+
