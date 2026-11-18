@@ -59,3 +59,25 @@ While drafting my proposal, I discovered a lot of unknowns around the structure 
 - What are other industry-specific metrics and trends for the agricultural tourism industry?
 
 Let's run this through Claude. And fact check. 
+
+7:07 PM
+
+It is not known who visits Hawaii with the intention to interest to volunteer or work on a farm. Maui is the only island that permits agricultural tourism. Italy has a site specific for helping agricultural tourist book housing. 
+
+I need to understand the problem better. I need to understand the legal constraints for building housing for farm laborers. I also need to understand policy being pushed to allow farms to be designated for agricultural tourism. 
+
+9:43 PM
+
+My idea for a platform to connect ag-tourists to farms looks dismal based off my estimates and understanding on zoning law. This is good. We like reality. I've looked at the number of visitors, but I have no idea how much an agricultural tourist would spend. I need information that does not exist. There are 3 different types of people:
+
+1. Work-trade farm workers
+2. Farm workers
+3. Tourist in HI who may be open to visiting a farm
+4. Everyone else in the world who would consider staying/working on a farm
+
+For all of them, I want to know:
+
+* How long they stay or want to stay in Hawaii
+* How passionate are they about farmlife
+* What do they pay or are willing to pay for housing
+  
