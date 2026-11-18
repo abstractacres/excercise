@@ -30,6 +30,17 @@ Resource A:
 
 Resource B:
 
+- Who is the customer?
+- How the customer think?
+- What problems does the customer think about?
+- How does the customer currently solve their problem?
+- What are customers willing to pay and why?
+- Why do people behave the way they do (thoughts, feelings, motivations)?
+- How many people experience a problem?
+- How often does the problem happen?
+- What solution do people prefer the most?
+  
+
 
 Resource C:
 
@@ -88,4 +99,12 @@ My mentor helped me accept that the work-trade farm worker and the agricultural 
 I imagined creating an "AirBnB" for farmworkers, but now instead imagine creating a "Yelp" for farmworkers. The lack of affordable housing is a safety concern in addition to preventing the growth of the industry. The lack of data on the simple statistic of how many farmworkers are there even on Hawaii needs to be resolved before anyone invests capital into building homes. 
 
 ....I have new questions, but before I dive into any new research. I want to finish reviewing my current queue. 
+
+5:26 AM 
+
+I'm delirious. Frustrated about lack of time to properly answer my questions. Running questions through Claude now and putting whatever is left over into my next steps. 
+
+11:02 PM -- Feedback from Professor 
+
+I'm thinking of changing everything. 
   
