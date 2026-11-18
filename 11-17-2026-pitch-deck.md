@@ -8,7 +8,9 @@ and open a new tab. I don't have time to rabbit hole.
 I have three resources I'm using to guide me:
 
   A. The grant application
-  B. A lecture on YouTube about market research
+  
+  B. [A lecture on YouTube about market research](https://www.youtube.com/watch?v=QzVrEIv4CYQ&t=3059s)
+  
   C. [An article on creating an Investor's Pitch by J.P. Morgan](https://www.jpmorgan.com/insights/business-planning/creating-an-investor-pitch-deck-for-your-startup)_
 
 Let's list questions and action items inspired by each resource:
@@ -43,3 +45,17 @@ Rarely have I ever written multiple rough drafts and evolved a thought through i
 return to research papers and data sets before forming my initial thoughts. I believe this is because I fear being incorrect. 
 The plan, for the next...25 minutes... is to answer majority of the questions and prompts above without referencing anything else
 but whatever lives in my memory and imagination. BRB. 
+
+6:25 PM -- 
+
+While drafting my proposal, I discovered a lot of unknowns around the structure of my business model. I need the most minimal sketch of the market first. 
+
+- How many people live in Hawaii?
+- What percentage of the workforce works in agriculture?
+- How many people visit Hawaii?
+- How many people visit Hawaii to either volunteer or work on a farm?
+- How many short-term rental units are on the market?
+- What platforms do homeowners, hotel owners, farm owners...use to fill their units?
+- What are other industry-specific metrics and trends for the agricultural tourism industry?
+
+Let's run this through Claude. And fact check. 
