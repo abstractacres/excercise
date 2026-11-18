@@ -1,6 +1,6 @@
 # Designing pitch deck to win funding for a market research campaign
 
-If you have noticed, my last 4 logs contained little to no actual practice. Lots of talk about how I want to or intend to practice programming or math. Today will be no different. 🤣 
+If you haven't noticed, my last 4 logs contained little to no actual practice. Lots of talk about how I want to or intend to practice programming or math. Today will be no different. 🤣 
 
 I created this Markdown file because I noticed I was flipping excitedly between browsers. I'd read a couple sentences, become inspired,
 and open a new tab. I don't have time to rabbit hole. 
@@ -80,4 +80,12 @@ For all of them, I want to know:
 * How long they stay or want to stay in Hawaii
 * How passionate are they about farmlife
 * What do they pay or are willing to pay for housing
+
+11/19/2026 12:43 AM - Narrowing scope
+
+My mentor helped me accept that the work-trade farm worker and the agricultural tourist are two very different people. Attempting to build a business to solve problems for two very different types of customers would be a work a genius. Instead, I choose to focus on the work-trade farm laborer. 
+
+I imagined creating an "AirBnB" for farmworkers, but now instead imagine creating a "Yelp" for farmworkers. The lack of affordable housing is a safety concern in addition to preventing the growth of the industry. The lack of data on the simple statistic of how many farmworkers are there even on Hawaii needs to be resolved before anyone invests capital into building homes. 
+
+....I have new questions, but before I dive into any new research. I want to finish reviewing my current queue. 
   
